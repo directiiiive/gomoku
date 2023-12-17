@@ -1,0 +1,7 @@
+the positions, when stored, are always of the form: (x,y)
+
+edgeneighborhood returns a set
+
+edges and vertices (lattice points) are always tuples, not lists
+
+edge colors are lists due to the need for handling of multiple elements
